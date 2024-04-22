@@ -62,7 +62,14 @@ header{
     border: 5px;
 }
 
+.card-text {
+    color: white;
+    font-weight: 600;
+}
 
+.card-title {
+  color: white;
+}
 
 /* Seccion Datos*/
 
